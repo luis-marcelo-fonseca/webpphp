@@ -21,8 +21,8 @@ Este projeto é uma solução em PHP para converter imagens de um banco de dados
 1. **Clone o projeto**:
 
    ```bash
-   git clone https://github.com/luis-marcelo-fonseca/webpphp.git
-   cd conversor-webp
+ git clone https://github.com/luis-marcelo-fonseca/webpphp.git
+ cd webpphp
    ```
 
 2. **Configure o banco de dados**:
