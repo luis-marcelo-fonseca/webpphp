@@ -13,7 +13,7 @@ Este projeto é uma solução em PHP para converter imagens de um banco de dados
 
 - PHP 7.4 ou superior.
 - Banco de dados (compatível com PDO, como MySQL).
-- Extensões GD ou Imagick habilitadas no PHP.
+- Extensões GD habilitadas no PHP.
 - Ambiente local para execução.
 
 ## Como Usar
