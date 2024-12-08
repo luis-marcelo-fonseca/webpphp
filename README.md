@@ -21,8 +21,8 @@ Este projeto é uma solução em PHP para converter imagens de um banco de dados
 1. **Clone o projeto**:
 
    ```bash
- git clone https://github.com/luis-marcelo-fonseca/webpphp.git
- cd webpphp
+   git clone https://github.com/suarepo/conversor-webp.git
+   cd webpphp
    ```
 
 2. **Configure o banco de dados**:
@@ -58,7 +58,7 @@ Este projeto é uma solução em PHP para converter imagens de um banco de dados
 - **Aumente o limite de execução do PHP**: Este script pode ser demorado dependendo do número de imagens. No seu arquivo `php.ini`, ajuste o valor de `max_execution_time`:
 
    ```ini
-   max_execution_time = 999999999
+   max_execution_time = 300
    ```
 
 - **Ambiente local**: Recomendamos executar este script em um servidor local para evitar interrupções devido a limites de tempo ou conexão.
