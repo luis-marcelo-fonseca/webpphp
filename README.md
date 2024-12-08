@@ -58,7 +58,7 @@ Este projeto é uma solução em PHP para converter imagens de um banco de dados
 - **Aumente o limite de execução do PHP**: Este script pode ser demorado dependendo do número de imagens. No seu arquivo `php.ini`, ajuste o valor de `max_execution_time`:
 
    ```ini
-   max_execution_time = 300
+   max_execution_time = 999999999
    ```
 
 - **Ambiente local**: Recomendamos executar este script em um servidor local para evitar interrupções devido a limites de tempo ou conexão.
